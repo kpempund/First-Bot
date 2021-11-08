@@ -1,0 +1,19 @@
+{
+  "name": "first-bot",
+  "version": "1.0.0",
+  "description": "This is my first bot!",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpempund/First-Bot.git"
+  },
+  "author": "kpempund",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kpempund/First-Bot/issues"
+  },
+  "homepage": "https://github.com/kpempund/First-Bot#readme"
+}
