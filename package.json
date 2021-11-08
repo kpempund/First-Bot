@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kpempund/First-Bot/issues"
   },
-  "homepage": "https://github.com/kpempund/First-Bot#readme"
+  "homepage": "https://github.com/kpempund/First-Bot#readme",
+  "dependencies": {
+    "discord.js": "^13.4.0-dev.1636157105.49e3ce2"
+  }
 }
