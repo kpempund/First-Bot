@@ -26,7 +26,7 @@ client.on(`messageCreate`, (message) => {
 client.on(`messageCreate`, (message) => {
     if (message.content === '!Hello') {
         message.reply({
-            content: 'Hello, Im very brand new first bot.'
+            content: 'Hello, Im a very brand new first bot.'
         })
     }
 })
